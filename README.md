@@ -10,13 +10,19 @@ This is a simple BMI (Body Mass Index) calculator built with **Node.js** and **E
 - The app handles GET and POST HTTP requests using Express.
 
 ## Project Structure
-/BMI-CALCULATOR\n
-├── /public\n
-│ └── style.css\n
-├── index.js\n
-├── package.json\n
-├── package-lock.json\n
-└── node_modules/\n
+go-reloaded/
+├── go.mod             
+├── main.go             
+├── readme.md          
+├── sample.txt          
+├── result.txt          
+├── helpers/            
+│   ├── cleaning.go     
+│   ├── conversion.go   
+│   ├── modifiers.go    
+│   ├── ProcessLine.go  
+│   ├── punctuation.go  
+│   └── tokenizer.go    
 ## Requirements
 
 - **Node.js**: Make sure you have Node.js installed on your machine. You can download it from the official website [here](https://nodejs.org/).
