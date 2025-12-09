@@ -1,0 +1,94 @@
+/* Общие стили для страницы */
+body {
+  font-family: Arial, sans-serif;  /* Шрифт */
+  margin: 20px;                    /* Отступы */
+  background-color: #FCF6D9;       /* Цвет фона */
+  color: #333;                     /* Цвет текста */
+}
+
+/* Стиль заголовка */
+h1 {
+  color: #301CA0;                  /* Цвет текста */
+  font-size: 36px;                 /* Размер шрифта */
+  text-align: center;              /* Выравнивание по центру */
+}
+
+/* Стили для формы */
+.form-container {
+  background-color: #fff;          /* Цвет фона */
+  padding: 30px;                   /* Отступы */
+  border-radius: 10px;             /* Закругленные углы */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0); /* Тень */
+  width: 80%;                      /* Ширина формы */
+  max-width: 400px;                /* Максимальная ширина */
+  margin: 20px auto;               /* Выравнивание по центру */
+  text-align: center;              /* Выравнивание текста */
+}
+
+/* Стили для ввода */
+input {
+  width: 100%;                     /* Ширина 100% */
+  padding: 8px;                    /* Отступы внутри поля */
+  margin: 10px 0;                  /* Отступы сверху и снизу */
+  border-radius: 4px;              /* Закругленные углы */
+  border: 1px solid #ccc;          /* Цвет границы */
+}
+
+/* Стили кнопки */
+button {
+  background-color: #301CA0;
+  color: white;               
+  padding: 10px 20px;     
+  border: none;               
+  border-radius: 15px;              
+  cursor: pointer;                
+  font-size: 16px;                 
+  width: 100%;                     
+}
+
+/* Стили для контейнера с результатами */
+.result-container {
+  background-color: #F9E7B2;          
+  padding: 30px;                   
+  border-radius: 10px;             
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  width: 80%;                      
+  max-width: 400px;                
+  margin: 20px auto;              
+  text-align: center;            
+}
+
+.category {
+  font-size: 20px;                
+  font-weight: bold;              
+  margin-top: 10px;                
+}
+
+
+a {
+  display: block;                  
+  margin-top: 20px;              
+  text-align: center;              
+  text-decoration: none;           
+  color: #4CAF50;                
+}
+
+.normal {
+  color: green;                    
+}
+
+.overweight {
+  color: orange;                   
+}
+
+.obese {
+  color: red;                      
+}
+
+.underweight {
+  color: blue;                     
+}
+
+a:hover {
+  color: #45a049;                  
+}
