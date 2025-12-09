@@ -11,13 +11,13 @@ This is a simple BMI (Body Mass Index) calculator built with **Node.js** and **E
 
 ## Project Structure
 BMI-CALCULATOR/
-├── index.js             
-├── package.json             
-├── readme.md          
-├── package-lock.json 
+├── index.js
+├── package.json
+├── readme.md
+├── package-lock.json
 ├── node_modules/
-├── public/            
-│   └── style.css    
+├── public/
+│ └── style.css
 ## Requirements
 
 - **Node.js**: Make sure you have Node.js installed on your machine. You can download it from the official website [here](https://nodejs.org/).
