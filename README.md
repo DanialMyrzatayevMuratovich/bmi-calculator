@@ -65,4 +65,7 @@ This is a simple BMI (Body Mass Index) calculator built with **Node.js** and **E
 
 Feel free to fork this repository and submit pull requests if you'd like to contribute to this project!
 
+## Author
+GitHub profile](https://github.com/DanialMyrzatayevMuratovich)
+
 
