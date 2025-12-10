@@ -16,7 +16,7 @@ BMI-CALCULATOR/
 ├── readme.md          
 ├── package-lock.json         
 ├── package.json        
-├── node_modules/            
+├── css/            
 │   └── style.css   
 ## Requirements
 
