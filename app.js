@@ -26,6 +26,8 @@ app.get('/', (req, res) => {
         <button type="submit">Calculate BMI</button>
       </form>
     </div>
+
+    
   `);
 });
 

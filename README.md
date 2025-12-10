@@ -12,7 +12,7 @@ This is a simple BMI (Body Mass Index) calculator built with **Node.js** and **E
 ## Project Structure
 BMI-CALCULATOR/
 ├── node_modules/         
-├── index.js             
+├── app.js             
 ├── readme.md          
 ├── package-lock.json         
 ├── package.json        
